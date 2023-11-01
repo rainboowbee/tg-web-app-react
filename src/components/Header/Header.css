@@ -12,6 +12,15 @@
     z-index: 1;
 }
 
+.span {
+    padding: 10px 15px;
+    background: var(--tg-theme-button-color);
+    color: var(--tg-theme-button-text-color);
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
 .header__name {
     font-size: 20px;
     line-height: 1;
